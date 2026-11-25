@@ -2,7 +2,7 @@
 //
 // What this entry is:
 //   A one-day world news front page for Wednesday 25 November 2026:
-//   35 dated stories, 9 regions, 14 fields, drawn in code as a single
+//   35 dated stories, 6 regions, 14 fields, drawn in code as a single
 //   1024x1024 image (entry.png). The image names its day, lists each
 //   story with its source, and carries a date check that every story
 //   happened or was first reported on 25 November 2026 (UTC).
